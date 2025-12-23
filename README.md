@@ -31,4 +31,4 @@ O inventário deve estar organizado em categorias:
 
 ---
 O inventário deve ser apresentado em formato claro, organizado e motivador, com linguagem acessível e inspiradora, para que eu possa usar como exercício pessoal de autoconhecimento e planejamento de carreira.
----
+
